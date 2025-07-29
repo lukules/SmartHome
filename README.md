@@ -1,6 +1,6 @@
 ## Overview
 
-SmartHome is a Java-based, console-driven simulation of a smart home system designed for educational purposes. The project focuses on building a solid business logic and architecture for managing smart devices scattered in multiple rooms, without involving any graphical user interface (GUI).
+SmartHome is a Java-based, console-driven simulation of a smart home system designed for educational purposes. The project focuses on building a solid business logic and architecture for managing smart devices scattered in multiple rooms, without involving any graphical user interface.
 
 Its main goals are to practice and understand:
 
